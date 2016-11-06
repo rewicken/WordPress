@@ -61,3 +61,13 @@
 .popup-post-container .post-content {
     padding: 0 15px;
 }
+
+.fusion-column-wrapper {
+    text-align: center;
+}
+.fusion-logo-link img {
+    width: 145px;
+}
+.tfs-slider .background-image {
+    background-position-y: 1px;
+}
